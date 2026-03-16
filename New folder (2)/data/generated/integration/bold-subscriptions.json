@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "bold-subscriptions",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Replyma + Bold Subscriptions Integration: Supercharge Your E-commerce Support",
+    "description": "Connect Replyma with Bold Subscriptions to automate support, personalize responses, and improve customer satisfaction for your subscription-based e-comm...",
+    "keywords": [
+      "Replyma",
+      "Bold Subscriptions",
+      "e-commerce support",
+      "customer service",
+      "automation",
+      "integration",
+      "subscription management",
+      "Gorgias",
+      "Zendesk",
+      "Tidio"
+    ]
+  },
+  "content": {
+    "intro": "Subscription management can create unique customer support challenges. Customers need help with cancellations, modifications, and understanding recurring charges. Integrating Replyma with Bold Subscriptions allows you to automate responses to common subscription-related inquiries, personalize support based on subscription status, and ultimately improve customer satisfaction. Unlike generic solutions like Zendesk, Replyma understands the nuances of e-commerce and subscription models, offering tailored automation and insights.",
+    "what_you_can_do": [
+      "Capability 1 for bold-subscriptions.",
+      "Capability 2 for bold-subscriptions.",
+      "Capability 3 for bold-subscriptions.",
+      "Capability 4 for bold-subscriptions.",
+      "Capability 5 for bold-subscriptions.",
+      "Capability 6 for bold-subscriptions.",
+      "Capability 7 for bold-subscriptions.",
+      "Capability 8 for bold-subscriptions."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Start Your Free Replyma Trial"
+  }
+}

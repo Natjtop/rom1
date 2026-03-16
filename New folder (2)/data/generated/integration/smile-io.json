@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "smile-io",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Integrate Smile.io with Replyma for Enhanced E-commerce Support",
+    "description": "Connect Smile.io with Replyma to streamline loyalty program support, automate responses, and improve customer satisfaction. Outperform Gorgias and Zende...",
+    "keywords": [
+      "Smile.io",
+      "Replyma",
+      "integration",
+      "loyalty program",
+      "customer support",
+      "ecommerce",
+      "Gorgias",
+      "Zendesk",
+      "automation"
+    ]
+  },
+  "content": {
+    "intro": "Integrating Smile.io with Replyma revolutionizes how you handle loyalty program inquiries. By connecting your loyalty data with Replyma's AI-powered customer support, you can provide personalized and efficient service, resolving issues faster and boosting customer engagement. Unlike basic integrations offered by Zendesk, Replyma provides in-depth insights and automated workflows tailored for e-commerce.",
+    "what_you_can_do": [
+      "Capability 1 for smile-io.",
+      "Capability 2 for smile-io.",
+      "Capability 3 for smile-io.",
+      "Capability 4 for smile-io.",
+      "Capability 5 for smile-io.",
+      "Capability 6 for smile-io.",
+      "Capability 7 for smile-io.",
+      "Capability 8 for smile-io."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

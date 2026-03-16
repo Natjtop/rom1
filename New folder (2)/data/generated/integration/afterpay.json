@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "afterpay",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Afterpay Integration for Replyma: Streamline E-commerce Customer Support",
+    "description": "Integrate Afterpay with Replyma to handle order inquiries, payment issues, and refund requests efficiently. Improve customer satisfaction and reduce res...",
+    "keywords": [
+      "Afterpay",
+      "Replyma",
+      "e-commerce customer support",
+      "buy now pay later",
+      "order inquiries",
+      "payment issues",
+      "refunds",
+      "Gorgias",
+      "Zendesk",
+      "Tidio"
+    ]
+  },
+  "content": {
+    "intro": "Integrating Afterpay with Replyma allows you to centralize and automate customer support related to 'buy now, pay later' transactions. This integration streamlines responses to common inquiries, reduces manual effort, and improves the overall customer experience by providing faster, more accurate support.",
+    "what_you_can_do": [
+      "Capability 1 for afterpay.",
+      "Capability 2 for afterpay.",
+      "Capability 3 for afterpay.",
+      "Capability 4 for afterpay.",
+      "Capability 5 for afterpay.",
+      "Capability 6 for afterpay.",
+      "Capability 7 for afterpay.",
+      "Capability 8 for afterpay."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

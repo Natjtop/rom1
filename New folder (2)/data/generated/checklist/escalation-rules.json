@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "content_type": "checklist",
+    "checklist_type": "escalation-rules",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "E-commerce Customer Support Escalation Rules Checklist",
+    "description": "Ensure critical issues reach the right support agents promptly. This checklist helps e-commerce businesses set up effective escalation rules to improve...",
+    "keywords": [
+      "e-commerce customer support",
+      "escalation rules",
+      "customer service automation",
+      "replyma",
+      "gorgias",
+      "zendesk",
+      "tidio",
+      "customer satisfaction",
+      "support workflows"
+    ]
+  },
+  "content": {
+    "intro": "Effective escalation rules are crucial for managing high-priority customer support issues in e-commerce. This checklist guides you through setting up robust escalation procedures to ensure timely resolution and prevent customer churn. By implementing these steps, you can improve customer satisfaction, reduce response times, and optimize your support team's efficiency. This is particularly important if you're considering alternatives to platforms like Gorgias, Zendesk, or Tidio.",
+    "phases": [
+      {
+        "phase_name": "Setup",
+        "phase_number": 1,
+        "items": [
+          {
+            "id": "p1-1",
+            "task": "Task 1",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p1-2",
+            "task": "Task 2",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p1-3",
+            "task": "Task 3",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p1-4",
+            "task": "Task 4",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p1-5",
+            "task": "Task 5",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p1-6",
+            "task": "Task 6",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p1-7",
+            "task": "Task 7",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p1-8",
+            "task": "Task 8",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p1-9",
+            "task": "Task 9",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p1-10",
+            "task": "Task 10",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          }
+        ]
+      },
+      {
+        "phase_name": "Configuration",
+        "phase_number": 2,
+        "items": [
+          {
+            "id": "p2-1",
+            "task": "Task 1",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p2-2",
+            "task": "Task 2",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p2-3",
+            "task": "Task 3",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p2-4",
+            "task": "Task 4",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p2-5",
+            "task": "Task 5",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p2-6",
+            "task": "Task 6",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p2-7",
+            "task": "Task 7",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p2-8",
+            "task": "Task 8",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p2-9",
+            "task": "Task 9",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p2-10",
+            "task": "Task 10",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          }
+        ]
+      },
+      {
+        "phase_name": "Launch",
+        "phase_number": 3,
+        "items": [
+          {
+            "id": "p3-1",
+            "task": "Task 1",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p3-2",
+            "task": "Task 2",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p3-3",
+            "task": "Task 3",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p3-4",
+            "task": "Task 4",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p3-5",
+            "task": "Task 5",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p3-6",
+            "task": "Task 6",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p3-7",
+            "task": "Task 7",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p3-8",
+            "task": "Task 8",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p3-9",
+            "task": "Task 9",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p3-10",
+            "task": "Task 10",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          }
+        ]
+      },
+      {
+        "phase_name": "Optimize",
+        "phase_number": 4,
+        "items": [
+          {
+            "id": "p4-1",
+            "task": "Task 1",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p4-2",
+            "task": "Task 2",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p4-3",
+            "task": "Task 3",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p4-4",
+            "task": "Task 4",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p4-5",
+            "task": "Task 5",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p4-6",
+            "task": "Task 6",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p4-7",
+            "task": "Task 7",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p4-8",
+            "task": "Task 8",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p4-9",
+            "task": "Task 9",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          },
+          {
+            "id": "p4-10",
+            "task": "Task 10",
+            "description": "Complete this step.",
+            "priority": "medium",
+            "time_estimate": "5 min",
+            "replyma_automates": false
+          }
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Tip 1: review docs.",
+      "Tip 2: review docs.",
+      "Tip 3: review docs.",
+      "Tip 4: review docs.",
+      "Tip 5: review docs."
+    ]
+  }
+}

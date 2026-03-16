@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "klaviyo",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Replyma + Klaviyo Integration: Supercharge Your E-commerce Support",
+    "description": "Connect Replyma with Klaviyo to personalize customer support with email marketing data. Respond faster and increase sales with targeted assistance.",
+    "keywords": [
+      "Klaviyo integration",
+      "Replyma",
+      "e-commerce support",
+      "customer service",
+      "email marketing",
+      "personalized support",
+      "Gorgias alternative",
+      "Zendesk alternative",
+      "Tidio alternative"
+    ]
+  },
+  "content": {
+    "intro": "Seamlessly integrate Replyma with Klaviyo to unlock a new level of personalized customer support for your e-commerce store. By connecting your email marketing data with your support tickets, you can provide faster, more relevant assistance, ultimately boosting customer satisfaction and driving sales. Unlike generic support platforms like Zendesk, Replyma focuses on e-commerce and provides deep integrations like this one to help you sell more.",
+    "what_you_can_do": [
+      "Capability 1 for klaviyo.",
+      "Capability 2 for klaviyo.",
+      "Capability 3 for klaviyo.",
+      "Capability 4 for klaviyo.",
+      "Capability 5 for klaviyo.",
+      "Capability 6 for klaviyo.",
+      "Capability 7 for klaviyo.",
+      "Capability 8 for klaviyo."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

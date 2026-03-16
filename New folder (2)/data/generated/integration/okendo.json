@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "okendo",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Okendo Integration for Replyma: Automate Customer Support",
+    "description": "Integrate Okendo reviews with Replyma to automate responses to customer feedback, identify product issues, and improve customer satisfaction. Free trial...",
+    "keywords": [
+      "Okendo",
+      "Replyma",
+      "customer support automation",
+      "e-commerce",
+      "reviews",
+      "Zendesk",
+      "Gorgias",
+      "Tidio"
+    ]
+  },
+  "content": {
+    "intro": "Connect your Okendo customer reviews with Replyma to unlock powerful automation capabilities for your e-commerce support team. Automatically respond to positive and negative reviews, identify trending product issues, and proactively engage with customers to improve satisfaction and drive sales. Unlike Zendesk or Gorgias, Replyma focuses specifically on AI-powered e-commerce support automation, providing a streamlined solution for managing customer feedback.",
+    "what_you_can_do": [
+      "Capability 1 for okendo.",
+      "Capability 2 for okendo.",
+      "Capability 3 for okendo.",
+      "Capability 4 for okendo.",
+      "Capability 5 for okendo.",
+      "Capability 6 for okendo.",
+      "Capability 7 for okendo.",
+      "Capability 8 for okendo."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

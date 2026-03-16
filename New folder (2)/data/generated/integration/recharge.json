@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "recharge",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Replyma + Recharge: Automate Customer Support for Subscriptions",
+    "description": "Connect Replyma to Recharge to automate support for subscription management, cancellations, and more. Reduce support tickets and improve customer satisf...",
+    "keywords": [
+      "Recharge",
+      "Replyma",
+      "subscription management",
+      "customer support automation",
+      "ecommerce",
+      "customer service",
+      "subscription cancellations",
+      "Gorgias",
+      "Zendesk",
+      "Tidio"
+    ]
+  },
+  "content": {
+    "intro": "As an e-commerce store using Recharge for subscription management, you know that handling customer inquiries about subscriptions can be time-consuming. Customers often have questions about upcoming charges, cancellations, or updating their payment information. Replyma integrates seamlessly with Recharge to automate responses to these common inquiries, freeing up your support team to focus on more complex issues and improving customer satisfaction.",
+    "what_you_can_do": [
+      "Capability 1 for recharge.",
+      "Capability 2 for recharge.",
+      "Capability 3 for recharge.",
+      "Capability 4 for recharge.",
+      "Capability 5 for recharge.",
+      "Capability 6 for recharge.",
+      "Capability 7 for recharge.",
+      "Capability 8 for recharge."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

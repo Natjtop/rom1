@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "content_type": "niche-landing",
+    "niche_slug": "eyewear",
+    "generated_at": "2026-03-11T15:05:52.675Z"
+  },
+  "seo": {
+    "title": "Eyewear Customer Support: AI Helpdesk for Glasses & Sunglasses",
+    "description": "Replyma helps eyewear brands automate customer support for prescription inquiries, order tracking, returns, and more. Integrate with Shopify & WooCommerce.",
+    "keywords": [
+      "eyewear customer support",
+      "glasses help",
+      "eyewear ecommerce",
+      "sunglasses support"
+    ]
+  },
+  "content": {
+    "hero_headline": "Stop Losing Sight of Your Customers: AI-Powered Eyewear Support",
+    "hero_subheadline": "Replyma understands the nuances of eyewear e-commerce, from prescription questions to frame adjustments. Reduce response times and boost customer satisfaction with our AI helpdesk.",
+    "problem_section": {
+      "heading": "The Frustrating Reality of Eyewear Customer Support",
+      "pain_points": [
+        {
+          "title": "Prescription Confusion",
+          "description": "Customers struggle to understand their prescriptions and how they translate to online orders. Manually explaining PD measurements and lens options is time-consuming.",
+          "impact": "High cart abandonment, frustrated customers, and increased support ticket volume."
+        },
+        {
+          "title": "Fit and Style Uncertainty",
+          "description": "Online eyewear shoppers can't physically try on glasses, leading to anxieties about fit, style, and suitability for their face shape.",
+          "impact": "Increased return rates, negative reviews, and lost sales opportunities."
+        },
+        {
+          "title": "Complex Return Policies",
+          "description": "Dealing with returns for prescription eyewear is particularly tricky due to customization and potential errors. Customers need clear guidance on the return process and eligibility.",
+          "impact": "Damaged customer relationships, disputes over refunds, and operational inefficiencies."
+        },
+        {
+          "title": "Warranty Woes",
+          "description": "Eyewear warranties can be complex, covering manufacturing defects but not accidental damage. Determining eligibility and processing warranty claims requires significant agent time.",
+          "impact": "Customer dissatisfaction, potential legal issues, and increased support costs."
+        },
+        {
+          "title": "Lens Option Overload",
+          "description": "Customers are often overwhelmed by the variety of lens options available (e.g., blue light filtering, progressive lenses, polarized lenses). Educating them on the pros and cons of each option requires personalized attention.",
+          "impact": "Decision paralysis, delayed purchases, and increased pre-sale inquiries."
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "Replyma: Your Clear Vision for Eyewear Customer Support",
+      "features": [
+        {
+          "title": "Prescription AI",
+          "description": "Our AI understands complex prescription formats and can answer customer questions about PD, sphere, cylinder, and axis values.",
+          "niche_example": "Replyma automatically identifies questions about prescription interpretations, such as 'What does my OD -2.00 mean?' and provides instant explanations, reducing agent workload."
+        },
+        {
+          "title": "Virtual Try-On Guidance",
+          "description": "Integrate with virtual try-on tools and let Replyma guide customers through the process, answering FAQs and troubleshooting technical issues.",
+          "niche_example": "When a customer asks 'My virtual try-on isn't working on my iPhone,' Replyma provides step-by-step troubleshooting instructions specific to iOS devices."
+        },
+        {
+          "title": "Automated Return Policy Explanations",
+          "description": "Replyma instantly answers questions about your return policy, including eligibility for prescription eyewear returns and refund timelines.",
+          "niche_example": "If a customer asks 'Can I return prescription sunglasses if I don't like the fit?', Replyma provides a clear answer based on your specific return policy for prescription items."
+        },
+        {
+          "title": "Warranty Claim Assistance",
+          "description": "Help customers understand your eyewear warranty coverage and guide them through the claim process with automated instructions and form completion.",
+          "niche_example": "Replyma can automatically determine if a customer's broken frame is covered under warranty based on the purchase date and damage description, then guide them to the warranty claim form."
+        },
+        {
+          "title": "Lens Recommendation Engine",
+          "description": "Based on customer needs and lifestyle, Replyma can recommend the best lens options (e.g., blue light filtering for screen use, polarized lenses for outdoor activities).",
+          "niche_example": "When a customer asks 'What lenses are best for driving?', Replyma recommends polarized lenses to reduce glare and provides links to relevant product pages."
+        },
+        {
+          "title": "Proactive Restock Notifications",
+          "description": "Automatically notify customers when their favorite frames are back in stock, driving repeat purchases and reducing frustration.",
+          "niche_example": "Replyma sends personalized emails to customers who previously inquired about out-of-stock frames, such as 'The [Brand Name] [Frame Model] is back in stock!'"
+        }
+      ]
+    },
+    "automation_examples": [
+      {
+        "ticket_type": "Order Tracking",
+        "frequency": "very common",
+        "replyma_response": "Automatically provides tracking information and estimated delivery date based on the order number."
+      },
+      {
+        "ticket_type": "Prescription Interpretation",
+        "frequency": "common",
+        "replyma_response": "Explains prescription values (sphere, cylinder, axis, PD) in simple terms and answers common questions."
+      },
+      {
+        "ticket_type": "Return Policy Inquiry",
+        "frequency": "very common",
+        "replyma_response": "Provides a summary of the return policy and answers specific questions about eligibility and process."
+      },
+      {
+        "ticket_type": "Warranty Claim",
+        "frequency": "occasional",
+        "replyma_response": "Guides customers through the warranty claim process and provides links to relevant forms."
+      },
+      {
+        "ticket_type": "Fit and Style Advice",
+        "frequency": "common",
+        "replyma_response": "Offers general recommendations based on face shape and style preferences. Integrates with virtual try-on tools."
+      },
+      {
+        "ticket_type": "Lens Option Recommendation",
+        "frequency": "common",
+        "replyma_response": "Recommends lens options based on customer needs and lifestyle (e.g., blue light filtering, polarized lenses)."
+      },
+      {
+        "ticket_type": "Restock Notification Request",
+        "frequency": "occasional",
+        "replyma_response": "Automatically adds customers to a restock notification list and sends an email when the item is back in stock."
+      },
+      {
+        "ticket_type": "Frame Adjustment Advice",
+        "frequency": "occasional",
+        "replyma_response": "Provides basic troubleshooting tips for minor frame adjustments and directs customers to local opticians for professional help."
+      }
+    ],
+    "stats": [
+      {
+        "value": "40%",
+        "label": "Reduction in support ticket volume",
+        "source": "Replyma internal data"
+      },
+      {
+        "value": "25%",
+        "label": "Increase in customer satisfaction scores",
+        "source": "Replyma customer surveys"
+      },
+      {
+        "value": "15%",
+        "label": "Increase in conversion rates",
+        "source": "Replyma A/B testing"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Replyma integrate with Shopify and WooCommerce?",
+        "answer": "Yes, Replyma seamlessly integrates with both Shopify and WooCommerce to access order data, customer information, and product details."
+      },
+      {
+        "question": "Can Replyma handle complex prescription questions?",
+        "answer": "Absolutely! Replyma's AI is trained to understand complex prescription formats and provide clear, accurate explanations."
+      },
+      {
+        "question": "How does Replyma compare to Gorgias or Zendesk for eyewear businesses?",
+        "answer": "While Gorgias and Zendesk offer general customer support features, Replyma is specifically designed for e-commerce, with AI tailored to the unique challenges of the eyewear industry, like prescription interpretation and virtual try-on support. This focused approach drives better results."
+      },
+      {
+        "question": "Is Replyma easy to set up?",
+        "answer": "Yes, Replyma offers a simple and intuitive setup process. Our team provides onboarding assistance to ensure a smooth transition."
+      },
+      {
+        "question": "Can Replyma handle returns for prescription eyewear?",
+        "answer": "Yes, Replyma can automatically answer questions about your return policy for prescription eyewear and guide customers through the return process."
+      },
+      {
+        "question": "Does Replyma support multiple languages?",
+        "answer": "Yes, Replyma supports multiple languages, allowing you to provide customer support in your customers' preferred language."
+      }
+    ],
+    "cta_text": "Get a Clear View of Customer Support: Start Your Free Replyma Trial Today!"
+  }
+}
