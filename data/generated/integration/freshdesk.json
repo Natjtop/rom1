@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "freshdesk",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Migrate from Freshdesk to Replyma: The AI-Powered E-commerce Support Solution",
+    "description": "Tired of Freshdesk's complexity? Migrate to Replyma for AI-powered e-commerce customer support. Seamless integration, automated workflows, and happier c...",
+    "keywords": [
+      "Freshdesk alternative",
+      "Replyma",
+      "e-commerce customer support",
+      "AI customer service",
+      "Gorgias alternative",
+      "Zendesk alternative",
+      "Tidio alternative",
+      "migrate to Replyma",
+      "customer support automation"
+    ]
+  },
+  "content": {
+    "intro": "Freshdesk is a popular help desk solution, but it can be complex and expensive, especially for growing e-commerce businesses. Replyma offers a streamlined, AI-powered alternative designed specifically for e-commerce. Migrate from Freshdesk to Replyma and unlock automated workflows, personalized support, and significant cost savings. Replyma integrates directly with your e-commerce platform, understanding order details, shipping information, and customer history to provide faster, more accurate support. If you're finding Freshdesk too generic or expensive, or if you're looking for a more proactive approach than Zendesk or Tidio offers, Replyma is the perfect fit.",
+    "what_you_can_do": [
+      "Capability 1 for freshdesk.",
+      "Capability 2 for freshdesk.",
+      "Capability 3 for freshdesk.",
+      "Capability 4 for freshdesk.",
+      "Capability 5 for freshdesk.",
+      "Capability 6 for freshdesk.",
+      "Capability 7 for freshdesk.",
+      "Capability 8 for freshdesk."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

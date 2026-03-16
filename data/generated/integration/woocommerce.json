@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "woocommerce",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Replyma + WooCommerce: Supercharge Your E-commerce Customer Support",
+    "description": "Connect your WooCommerce store to Replyma and automate customer support tasks, reduce response times, and increase customer satisfaction. Free trial ava...",
+    "keywords": [
+      "woocommerce customer support",
+      "woocommerce integration",
+      "ai customer support",
+      "ecommerce automation",
+      "replyma",
+      "gorgias alternative",
+      "zendesk alternative",
+      "tidio alternative"
+    ]
+  },
+  "content": {
+    "intro": "Seamlessly integrate your WooCommerce store with Replyma to provide exceptional, AI-powered customer support. Stop losing sales due to slow response times and start turning inquiries into loyal customers. Unlike Gorgias or Zendesk, Replyma is built specifically for e-commerce, making setup and automation incredibly easy.",
+    "what_you_can_do": [
+      "Capability 1 for woocommerce.",
+      "Capability 2 for woocommerce.",
+      "Capability 3 for woocommerce.",
+      "Capability 4 for woocommerce.",
+      "Capability 5 for woocommerce.",
+      "Capability 6 for woocommerce.",
+      "Capability 7 for woocommerce.",
+      "Capability 8 for woocommerce."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

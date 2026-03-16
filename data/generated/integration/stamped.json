@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "stamped",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Integrate Stamped.io Reviews with Replyma AI Customer Support",
+    "description": "Connect Stamped.io reviews with Replyma for AI-powered customer support. Automatically respond to reviews, identify product issues, and improve customer...",
+    "keywords": [
+      "Stamped.io",
+      "Replyma",
+      "integration",
+      "customer support",
+      "AI",
+      "reviews",
+      "ecommerce",
+      "Zendesk",
+      "Gorgias",
+      "Tidio"
+    ]
+  },
+  "content": {
+    "intro": "Supercharge your e-commerce customer support by integrating Stamped.io with Replyma. This powerful combination allows you to leverage customer reviews directly within your support workflow, enabling AI-driven responses, sentiment analysis, and proactive issue resolution. Unlike basic integrations offered by Zendesk or the manual efforts needed with Tidio, Replyma automates review-based support, saving you time and improving customer satisfaction.",
+    "what_you_can_do": [
+      "Capability 1 for stamped.",
+      "Capability 2 for stamped.",
+      "Capability 3 for stamped.",
+      "Capability 4 for stamped.",
+      "Capability 5 for stamped.",
+      "Capability 6 for stamped.",
+      "Capability 7 for stamped.",
+      "Capability 8 for stamped."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

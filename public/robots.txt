@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /inbox
+Disallow: /settings
+Disallow: /api/
+Sitemap: https://replyma.com/sitemap.xml

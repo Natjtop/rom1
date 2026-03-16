@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "yotpo",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Replyma + Yotpo Integration: Automate Customer Support for Reviews",
+    "description": "Connect Replyma to Yotpo to automatically respond to reviews, address issues, and boost customer satisfaction. Streamline your e-commerce support.",
+    "keywords": [
+      "Yotpo integration",
+      "ecommerce customer support",
+      "review automation",
+      "Replyma",
+      "customer feedback"
+    ]
+  },
+  "content": {
+    "intro": "Seamlessly integrate Replyma with Yotpo to transform customer reviews into opportunities for engagement and improved customer satisfaction. Automatically address negative feedback, reward positive reviews, and proactively resolve issues before they escalate, saving your team valuable time and resources. Stop manually checking Yotpo and let Replyma handle it all.",
+    "what_you_can_do": [
+      "Automatically respond to positive Yotpo reviews with personalized thank-you messages, boosting customer loyalty.",
+      "Identify and address negative reviews instantly, offering solutions and preventing negative sentiment from spreading.",
+      "Tag reviews based on sentiment and topic, providing valuable insights for product development and marketing strategies.",
+      "Create support tickets directly from negative reviews, ensuring prompt attention and resolution.",
+      "Escalate complex issues from Yotpo reviews to human agents for personalized support.",
+      "Track key metrics like review sentiment, response time, and customer satisfaction directly within Replyma.",
+      "Proactively offer discounts or promotions to customers who leave positive reviews, incentivizing repeat purchases.",
+      "Analyze review content to identify common product issues and improve product descriptions or FAQs."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

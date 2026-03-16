@@ -1,0 +1,452 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: oklch(0 0 0);
+  --foreground: oklch(1 0 0);
+  --card: oklch(0.05 0 0);
+  --card-foreground: oklch(1 0 0);
+  --popover: oklch(0.05 0 0);
+  --popover-foreground: oklch(1 0 0);
+  --primary: oklch(1 0 0);
+  --primary-foreground: oklch(0 0 0);
+  --secondary: oklch(0.1 0 0);
+  --secondary-foreground: oklch(1 0 0);
+  --muted: oklch(0.1 0 0);
+  --muted-foreground: oklch(0.6 0 0);
+  --accent: oklch(0.15 0 0);
+  --accent-foreground: oklch(1 0 0);
+  --destructive: oklch(0.3 0 0);
+  --destructive-foreground: oklch(1 0 0);
+  --border: oklch(0.2 0 0);
+  --input: oklch(0.2 0 0);
+  --ring: oklch(0.3 0 0);
+  --chart-1: oklch(0.8 0 0);
+  --chart-2: oklch(0.7 0 0);
+  --chart-3: oklch(0.6 0 0);
+  --chart-4: oklch(0.5 0 0);
+  --chart-5: oklch(0.4 0 0);
+  --radius: 1rem;
+  --sidebar: oklch(0.05 0 0);
+  --sidebar-foreground: oklch(1 0 0);
+  --sidebar-primary: oklch(1 0 0);
+  --sidebar-primary-foreground: oklch(0 0 0);
+  --sidebar-accent: oklch(0.1 0 0);
+  --sidebar-accent-foreground: oklch(1 0 0);
+  --sidebar-border: oklch(0.2 0 0);
+  --sidebar-ring: oklch(0.3 0 0);
+
+  --surface-elevated: oklch(0.1 0 0);
+  --surface-sunken: oklch(0 0 0);
+  --success: oklch(0.8 0 0);
+  --success-foreground: oklch(0 0 0);
+  --warning: oklch(0.7 0 0);
+  --warning-foreground: oklch(0 0 0);
+  --info: oklch(0.6 0 0);
+  --info-foreground: oklch(0 0 0);
+}
+
+/* Dark theme removed - light-only mode */
+
+/* Dashboard: replace muted gray with #1a2c44 */
+[data-dashboard] {
+  --muted-foreground: oklch(0.6 0 0);
+}
+
+/* Marketing: same muted color for consistency */
+[data-marketing] {
+  --muted-foreground: oklch(0.6 0 0);
+}
+/* H1 highlights on marketing: slightly lighter than muted (e.g. "e-commerce", "We don't.") */
+[data-marketing] .text-h1-muted {
+  color: oklch(0.8 0 0);
+}
+
+@theme inline {
+  --font-sans: var(--font-poppins), 'Poppins', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, monospace;
+  --font-serif: var(--font-source-serif), 'Source Serif 4', 'Georgia', serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-surface-elevated: var(--surface-elevated);
+  --color-surface-sunken: var(--surface-sunken);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
+  --color-info: var(--info);
+  --color-info-foreground: var(--info-foreground);
+  --color-h1-muted: var(--h1-muted, var(--muted-foreground));
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    line-height: 1.6;
+    text-rendering: auto;
+    font-feature-settings: "rlig" 1, "calt" 1, "ss01" 1;
+  }
+  html {
+    -webkit-font-smoothing: auto;
+    -moz-osx-font-smoothing: auto;
+  }
+  /* Widget embed iframe: no white flash when chat is closed */
+  html.replyma-widget-embed,
+  body.replyma-widget-embed {
+    background: transparent !important;
+    min-height: 100%;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.1;
+    letter-spacing: -0.025em;
+  }
+  p {
+    line-height: 1.7;
+  }
+  /* All interactive elements get pointer cursor */
+  button,
+  a,
+  [role="button"],
+  select,
+  input[type="checkbox"],
+  input[type="radio"],
+  input[type="range"],
+  input[type="submit"],
+  input[type="file"] {
+    cursor: pointer;
+  }
+  /* Micro-interaction: button press feedback (pointer devices only to avoid mobile jank) */
+  @media (pointer: fine) {
+    button:active:not(:disabled),
+    [role="button"]:active:not(:disabled) {
+      transform: scale(0.98);
+      transition: transform 0.1s ease;
+    }
+  }
+}
+
+/* ─── Mobile: prevent iOS Safari zoom on input focus ─────── */
+/* iOS zooms when font-size < 16px on input/textarea/select. */
+/* On touch devices, force 16px minimum font-size on focus.   */
+@media screen and (max-width: 1023px) {
+  html:not(.replyma-widget-embed) input,
+  html:not(.replyma-widget-embed) textarea,
+  html:not(.replyma-widget-embed) select {
+    font-size: max(16px, 1em) !important;
+  }
+}
+
+/* ─── Mobile: disable scroll-triggered animations ────────── */
+/* On touch devices, Framer Motion whileInView hides content  */
+/* until the user scrolls to it — terrible UX on mobile.      */
+/* This forces all elements to be visible immediately.         */
+/* Desktop (pointer:fine) keeps the scroll-reveal animations.  */
+@media (pointer: coarse) {
+  [style*="opacity: 0"],
+  [style*="opacity:0"] {
+    opacity: 1 !important;
+  }
+  /* Hide large blur decorative glows on mobile — they flash   */
+  /* as dark rectangles before the GPU applies the blur filter. */
+  [class*="blur-[80px]"],
+  [class*="blur-[100px]"],
+  [class*="blur-[120px]"] {
+    display: none !important;
+  }
+}
+
+/* Also respect prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  [style*="opacity: 0"],
+  [style*="opacity:0"] {
+    opacity: 1 !important;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ─── Keyframes ──────────────────────────────────────────── */
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-6px); }
+}
+@keyframes ticker-up {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-50%); }
+}
+@keyframes gradient-shift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+@keyframes slide-in-right {
+  from { opacity: 0; transform: translateX(12px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes slide-in-left {
+  from { opacity: 0; transform: translateX(-12px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+@keyframes scale-in {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+@keyframes count-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ─── Scrollbar ──────────────────────────────────────────── */
+/* Thin scrollbar on pointer (non-touch) devices only */
+@media (pointer: fine) {
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--muted-foreground); }
+
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--border) transparent;
+  }
+}
+
+/* ─── Selection ──────────────────────────────────────────── */
+::selection {
+  background: var(--accent);
+  color: var(--accent-foreground);
+}
+
+@layer utilities {
+  /* ── Background ────────────────── */
+  .bg-dot-pattern {
+    background-image: radial-gradient(circle at 1px 1px, var(--border) 1px, transparent 0);
+    background-size: 24px 24px;
+  }
+
+  /* ── Glass ──────────────────────── */
+  .glass {
+    background: oklch(1 0 0 / 0.72);
+    backdrop-filter: blur(12px) saturate(1.4);
+    -webkit-backdrop-filter: blur(12px) saturate(1.4);
+    will-change: backdrop-filter;
+  }
+  /* Light-only mode - no dark glass variant */
+
+  /* ── Marquee ───────────────────── */
+  .animate-marquee {
+    animation: marquee 40s linear infinite;
+    will-change: transform;
+  }
+  .animate-marquee:hover { animation-play-state: paused; }
+  .animate-fade-in-up {
+    animation: fade-in-up 0.4s ease both;
+  }
+  .animate-float { animation: float 6s ease-in-out infinite; }
+  .animate-ticker-up {
+    animation: ticker-up 12s linear infinite;
+  }
+
+  /* ── Gradient text ──────────── */
+  .text-gradient {
+    background: linear-gradient(135deg, var(--foreground) 0%, var(--muted-foreground) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .text-gradient-accent {
+    background: linear-gradient(135deg, var(--foreground) 0%, var(--muted-foreground) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* ── Gradient backgrounds ──── */
+  .bg-gradient-radial {
+    background: radial-gradient(ellipse at top, var(--accent)/0.08, transparent 70%);
+  }
+  .bg-gradient-subtle {
+    background: linear-gradient(180deg, var(--background) 0%, var(--surface-sunken) 100%);
+  }
+  .bg-mesh {
+    background:
+      radial-gradient(at 27% 37%, oklch(0.50 0 0 / 0.04) 0px, transparent 50%),
+      radial-gradient(at 97% 21%, oklch(0.60 0 0 / 0.03) 0px, transparent 50%),
+      radial-gradient(at 52% 99%, oklch(0.55 0 0 / 0.03) 0px, transparent 50%),
+      radial-gradient(at 10% 29%, oklch(0.65 0 0 / 0.02) 0px, transparent 50%);
+  }
+
+  /* ── Card hover lift ────────── */
+  .hover-lift {
+    transform: translateY(0);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .hover-lift:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px -12px rgb(0 0 0 / 0.12);
+  }
+
+  /* ── Grid pattern ──────────── */
+  .bg-grid-pattern {
+    background-image:
+      linear-gradient(var(--border) 1px, transparent 1px),
+      linear-gradient(90deg, var(--border) 1px, transparent 1px);
+    background-size: 64px 64px;
+    opacity: 0.3;
+  }
+
+  /* ── Animations ────────────── */
+  .animate-gradient-shift {
+    animation: gradient-shift 8s ease infinite;
+    background-size: 200% 200%;
+  }
+  .animate-pulse-soft {
+    animation: pulse-soft 2s ease-in-out infinite;
+  }
+  .animate-slide-in-right {
+    animation: slide-in-right 0.3s ease both;
+  }
+  .animate-slide-in-left {
+    animation: slide-in-left 0.3s ease both;
+  }
+  .animate-scale-in {
+    animation: scale-in 0.2s ease both;
+  }
+  .animate-count-up {
+    animation: count-up 0.5s ease both;
+  }
+
+  /* ── Focus styles ──────────── */
+  .focus-ring {
+    outline: none;
+  }
+  .focus-ring:focus-visible {
+    box-shadow: 0 0 0 2px var(--background), 0 0 0 4px var(--accent);
+  }
+}
+
+@layer components {
+  .liquid-glass {
+    background: rgba(255, 255, 255, 0.01);
+    background-blend-mode: luminosity;
+    backdrop-filter: blur(4px);
+    border: none;
+    box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .liquid-glass::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1.4px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.45) 0%,
+      rgba(255, 255, 255, 0.15) 20%,
+      transparent 40%,
+      transparent 60%,
+      rgba(255, 255, 255, 0.15) 80%,
+      rgba(255, 255, 255, 0.45) 100%
+    );
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+
+  .liquid-glass-strong {
+    background: rgba(255, 255, 255, 0.01);
+    background-blend-mode: luminosity;
+    backdrop-filter: blur(50px);
+    border: none;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.05), inset 0 1px 1px rgba(255, 255, 255, 0.15);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .liquid-glass-strong::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1.4px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.5) 0%,
+      rgba(255, 255, 255, 0.2) 20%,
+      transparent 40%,
+      transparent 60%,
+      rgba(255, 255, 255, 0.2) 80%,
+      rgba(255, 255, 255, 0.5) 100%
+    );
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+}

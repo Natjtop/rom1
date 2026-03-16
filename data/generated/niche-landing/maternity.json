@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "content_type": "niche-landing",
+    "niche_slug": "maternity",
+    "generated_at": "2026-03-11T15:05:52.675Z"
+  },
+  "seo": {
+    "title": "Maternity E-commerce Customer Support: Replyma vs. Gorgias & Zendesk",
+    "description": "Struggling with maternity wear customer support? Replyma's AI understands sizing, nursing compatibility, and pregnancy stage, unlike generic platforms....",
+    "keywords": [
+      "maternity customer support",
+      "maternity store help",
+      "maternity ecommerce",
+      "maternity wear support"
+    ]
+  },
+  "content": {
+    "hero_headline": "Stop Guessing, Start Supporting: AI-Powered Maternity Customer Support",
+    "hero_subheadline": "Replyma understands the unique needs of maternity wear customers, from bump-friendly sizing to nursing compatibility. Get personalized support that boosts satisfaction and reduces returns.",
+    "problem_section": {
+      "heading": "The Challenges of Maternity E-commerce Customer Support",
+      "pain_points": [
+        {
+          "title": "Sizing Confusion",
+          "description": "Customers struggle to find the right size as their bodies change during pregnancy. Generic size charts don't cut it.",
+          "impact": "High return rates and frustrated customers."
+        },
+        {
+          "title": "Nursing Compatibility Questions",
+          "description": "New moms need to know if clothing is nursing-friendly. Lack of clear product information leads to inquiries.",
+          "impact": "Increased support tickets and potential lost sales."
+        },
+        {
+          "title": "Order Tracking Anxiety",
+          "description": "Expecting mothers are eager to receive their orders. Delays and lack of updates cause stress.",
+          "impact": "Increased 'Where is my order?' (WISMO) tickets."
+        },
+        {
+          "title": "Return Policy Uncertainty",
+          "description": "Customers need clear return policies, especially with changing body shapes and potential fit issues after delivery.",
+          "impact": "Confusion and potential disputes."
+        },
+        {
+          "title": "Gift Registry and Gifting",
+          "description": "Navigating gift registries and ensuring correct sizes/styles for gifts can be complex for customers and gift-givers alike.",
+          "impact": "Increased support load around baby shower season and holidays."
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "Replyma: AI-Powered Support Designed for Maternity E-commerce",
+      "features": [
+        {
+          "title": "AI-Powered Size Recommendations",
+          "description": "Replyma's AI understands pregnancy-specific sizing and provides personalized recommendations based on customer input, reducing returns and increasing satisfaction.",
+          "niche_example": "A customer asks, 'I'm 20 weeks pregnant and usually wear a size 6, what size maternity jeans should I order?' Replyma provides a specific size recommendation based on the brand's maternity sizing chart."
+        },
+        {
+          "title": "Nursing Compatibility Detection",
+          "description": "Replyma automatically identifies questions about nursing compatibility and provides accurate answers based on product details.",
+          "niche_example": "A customer asks, 'Is this dress nursing-friendly?' Replyma checks the product description for keywords like 'nursing access' or 'lift-up panel' and provides an instant response."
+        },
+        {
+          "title": "Proactive Order Tracking Updates",
+          "description": "Replyma automatically sends order tracking updates to customers, keeping them informed and reducing 'Where is my order?' (WISMO) tickets.",
+          "niche_example": "Replyma proactively sends an email and SMS notification when an order ships, is out for delivery, and has been delivered."
+        },
+        {
+          "title": "Automated Return Policy Explanations",
+          "description": "Replyma clearly explains your return policy, addressing common questions about return windows, conditions, and procedures.",
+          "niche_example": "A customer asks, 'What is your return policy?' Replyma provides a concise summary of your return policy, including the return window, condition requirements, and return shipping instructions."
+        },
+        {
+          "title": "Gift Registry Support",
+          "description": "Replyma integrates with your gift registry to answer questions about registry setup, sharing, and managing items. ",
+          "niche_example": "A customer asks 'How do I add items to my registry?' Replyma provides step-by-step instructions based on the store's gift registry system."
+        },
+        {
+          "title": "Personalized Recommendations",
+          "description": "Replyma learns customer preferences and recommends relevant products, boosting sales and customer loyalty.",
+          "niche_example": "After a customer purchases maternity leggings, Replyma recommends a matching nursing top or a comfortable maternity bra."
+        }
+      ]
+    },
+    "automation_examples": [
+      {
+        "ticket_type": "Size Inquiry",
+        "frequency": "very common",
+        "replyma_response": "Replyma analyzes the customer's measurements and pregnancy stage to recommend the correct size, referencing the brand's specific maternity sizing chart."
+      },
+      {
+        "ticket_type": "Nursing Access Question",
+        "frequency": "very common",
+        "replyma_response": "Replyma checks the product details for nursing-friendly features and confirms whether the item has easy access for nursing."
+      },
+      {
+        "ticket_type": "Order Tracking",
+        "frequency": "very common",
+        "replyma_response": "Replyma provides real-time order tracking information, including the latest delivery updates and estimated arrival time."
+      },
+      {
+        "ticket_type": "Return Request",
+        "frequency": "common",
+        "replyma_response": "Replyma guides the customer through the return process, providing instructions on how to initiate a return and generate a prepaid shipping label."
+      },
+      {
+        "ticket_type": "Gift Registry Help",
+        "frequency": "occasional",
+        "replyma_response": "Replyma assists customers with gift registry setup, sharing, and managing items, offering personalized support based on their needs."
+      },
+      {
+        "ticket_type": "Material Inquiry",
+        "frequency": "common",
+        "replyma_response": "Replyma identifies the materials used in the garment and explains their properties, such as breathability and stretch."
+      },
+      {
+        "ticket_type": "Shipping Cost",
+        "frequency": "common",
+        "replyma_response": "Replyma calculates and displays the shipping cost based on the customer's location and order total, factoring in any applicable discounts or promotions."
+      },
+      {
+        "ticket_type": "Product Availability",
+        "frequency": "common",
+        "replyma_response": "Replyma checks product availability in real-time and informs the customer if the item is in stock and ready to ship, or provides an estimated restock date."
+      }
+    ],
+    "stats": [
+      {
+        "value": "35",
+        "label": "%",
+        "source": "Replyma Data"
+      },
+      {
+        "value": "20",
+        "label": "%",
+        "source": "Replyma Data"
+      },
+      {
+        "value": "40",
+        "label": "%",
+        "source": "Replyma Data"
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does Replyma handle maternity-specific sizing?",
+        "answer": "Replyma's AI is trained on maternity sizing charts and understands how sizing changes during pregnancy. It provides personalized recommendations based on customer measurements and pregnancy stage."
+      },
+      {
+        "question": "Can Replyma identify if a garment is nursing-friendly?",
+        "answer": "Yes, Replyma can automatically detect if a product has nursing-friendly features based on the product description and keywords. It can then relay this information to the customer."
+      },
+      {
+        "question": "Does Replyma integrate with Shopify?",
+        "answer": "Yes, Replyma seamlessly integrates with Shopify and WooCommerce, allowing you to manage customer support directly from your existing e-commerce platform."
+      },
+      {
+        "question": "How is Replyma different from Gorgias or Zendesk?",
+        "answer": "Unlike generic platforms like Gorgias and Zendesk, Replyma is specifically designed for e-commerce and understands the unique needs of maternity wear customers. Its AI is trained on maternity-specific data, providing more accurate and personalized support."
+      },
+      {
+        "question": "Can Replyma help with gift registry questions?",
+        "answer": "Yes, Replyma can assist customers with gift registry setup, sharing, and managing items, providing personalized support based on their needs."
+      },
+      {
+        "question": "What kind of reporting does Replyma offer?",
+        "answer": "Replyma provides detailed reports on customer support performance, including ticket volume, resolution time, and customer satisfaction. You can use these reports to identify areas for improvement and optimize your support strategy."
+      }
+    ],
+    "cta_text": "Start Your Free Replyma Trial Today"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "content_type": "niche-landing",
+    "niche_slug": "activewear",
+    "generated_at": "2026-03-11T15:05:52.675Z"
+  },
+  "seo": {
+    "title": "Activewear Customer Support: Boost Sales with AI | Replyma",
+    "description": "Replyma AI automates activewear customer support for Shopify & WooCommerce. Handle order tracking, sizing, returns & more. Free trial!",
+    "keywords": [
+      "activewear customer support",
+      "activewear help",
+      "athletic wear ecommerce",
+      "sportswear support"
+    ]
+  },
+  "content": {
+    "hero_headline": "Stop Drowning in Activewear Support Tickets",
+    "hero_subheadline": "Replyma AI understands the nuances of activewear customer support, from compression levels to sports-specific fits, freeing your team to focus on growth.",
+    "problem_section": {
+      "heading": "The Activewear Support Struggle is Real",
+      "pain_points": [
+        {
+          "title": "Endless Sizing Questions",
+          "description": "Customers need help finding the perfect fit, especially with varying compression levels and international sizing. Manually answering these questions takes hours.",
+          "impact": "Increased support ticket volume, delayed responses, and frustrated customers who abandon their carts."
+        },
+        {
+          "title": "Complex Return Policies",
+          "description": "Activewear returns are often due to sizing issues or dissatisfaction with the fabric. Explaining your return policy repeatedly eats up valuable time.",
+          "impact": "Higher operational costs, negative reviews, and a drain on your team's morale."
+        },
+        {
+          "title": "Order Tracking Overload",
+          "description": "Customers constantly check on their orders, especially during peak seasons or after promotions. This creates a flood of 'Where's my order?' inquiries.",
+          "impact": "Reduced agent productivity, longer resolution times, and a perception of poor customer service."
+        },
+        {
+          "title": "Fabric and Care Confusion",
+          "description": "Customers are unsure how to properly care for technical fabrics like moisture-wicking polyester or compression knits. Improper care leads to returns and complaints.",
+          "impact": "Increased product returns, negative reviews, and a damaged brand reputation."
+        },
+        {
+          "title": "Restock Inquiries Galore",
+          "description": "Popular activewear items sell out quickly, leading to a constant stream of questions about restock dates. Manually responding to each inquiry is time-consuming.",
+          "impact": "Missed sales opportunities, frustrated customers, and a feeling of being overwhelmed by demand."
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "Replyma: AI-Powered Support That Understands Activewear",
+      "features": [
+        {
+          "title": "AI-Powered Sizing Assistance",
+          "description": "Replyma understands size charts, compression levels, and sport-specific fit requirements. It provides accurate sizing recommendations based on customer inquiries.",
+          "niche_example": "A customer asks, 'I'm 5'8\" and weigh 150lbs, what size leggings should I get?' Replyma instantly recommends the correct size based on your store's size chart."
+        },
+        {
+          "title": "Automated Return Policy Explanations",
+          "description": "Replyma instantly answers questions about your return policy, including eligibility, timelines, and shipping instructions.",
+          "niche_example": "A customer asks, 'Can I return leggings if they don't fit?' Replyma explains your return policy, specifies if the leggings must be unworn, and provides a link to the return portal."
+        },
+        {
+          "title": "Proactive Order Tracking Updates",
+          "description": "Replyma automatically provides order tracking updates to customers, reducing 'Where's my order?' inquiries.",
+          "niche_example": "Replyma automatically sends proactive updates like 'Your order has shipped!' and 'Your order is out for delivery!' to keep customers informed."
+        },
+        {
+          "title": "Fabric and Care Guidance",
+          "description": "Replyma provides detailed instructions on how to care for different activewear fabrics, preventing damage and extending the life of your products.",
+          "niche_example": "A customer asks, 'How do I wash my compression shorts?' Replyma provides specific instructions on washing temperature, detergent type, and drying methods."
+        },
+        {
+          "title": "Restock Notifications",
+          "description": "Replyma allows customers to sign up for restock notifications, automatically informing them when their desired items are back in stock.",
+          "niche_example": "A customer asks if a specific sports bra will be restocked. Replyma offers to sign them up for a notification when it's available again."
+        },
+        {
+          "title": "Seamless Shopify & WooCommerce Integration",
+          "description": "Replyma integrates seamlessly with Shopify and WooCommerce, pulling in product information, order details, and customer data to provide personalized support.",
+          "niche_example": "Replyma automatically displays a customer's order history and product details, allowing agents to quickly address their specific needs without switching between platforms - unlike Zendesk."
+        }
+      ]
+    },
+    "automation_examples": [
+      {
+        "ticket_type": "Order Tracking",
+        "frequency": "very common",
+        "replyma_response": "Automatically provides tracking information and delivery updates."
+      },
+      {
+        "ticket_type": "Sizing Question",
+        "frequency": "very common",
+        "replyma_response": "Recommends the correct size based on the customer's measurements and the product's size chart."
+      },
+      {
+        "ticket_type": "Return Request",
+        "frequency": "common",
+        "replyma_response": "Guides the customer through the return process and provides a return shipping label."
+      },
+      {
+        "ticket_type": "Fabric Care Inquiry",
+        "frequency": "common",
+        "replyma_response": "Provides detailed instructions on how to care for the specific fabric of the garment."
+      },
+      {
+        "ticket_type": "Restock Inquiry",
+        "frequency": "common",
+        "replyma_response": "Checks product availability and offers to sign the customer up for restock notifications."
+      },
+      {
+        "ticket_type": "Sports-Specific Fit Question",
+        "frequency": "occasional",
+        "replyma_response": "Provides fit recommendations based on the sport the customer will be participating in (e.g., running, yoga, weightlifting)."
+      },
+      {
+        "ticket_type": "Discount Code Request",
+        "frequency": "occasional",
+        "replyma_response": "Checks for available discount codes and applies them to the customer's order."
+      },
+      {
+        "ticket_type": "Shipping Cost Inquiry",
+        "frequency": "occasional",
+        "replyma_response": "Calculates shipping costs based on the customer's location and the order's weight."
+      }
+    ],
+    "stats": [
+      {
+        "value": "40",
+        "label": "%",
+        "source": "Replyma Data"
+      },
+      {
+        "value": "24/7",
+        "label": "Availability",
+        "source": "Replyma AI"
+      },
+      {
+        "value": "95",
+        "label": "% Satisfaction",
+        "source": "Replyma Customer Surveys"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Replyma integrate with my Shopify store?",
+        "answer": "Yes, Replyma seamlessly integrates with Shopify and WooCommerce stores, providing access to product information, order details, and customer data."
+      },
+      {
+        "question": "Can Replyma handle complex sizing questions?",
+        "answer": "Absolutely! Replyma's AI is trained to understand size charts, compression levels, and sport-specific fit requirements, providing accurate recommendations."
+      },
+      {
+        "question": "How does Replyma handle returns?",
+        "answer": "Replyma guides customers through the return process, provides return shipping labels, and answers questions about your return policy."
+      },
+      {
+        "question": "Can Replyma help with fabric care inquiries?",
+        "answer": "Yes, Replyma provides detailed instructions on how to care for different activewear fabrics, preventing damage and extending the life of your products."
+      },
+      {
+        "question": "Is Replyma better than Gorgias for Activewear?",
+        "answer": "Replyma is specifically designed for e-commerce, with a deep understanding of activewear customer needs. Unlike generic platforms like Gorgias, Replyma offers features tailored to your niche, such as AI-powered sizing assistance and fabric care guidance."
+      },
+      {
+        "question": "How much does Replyma cost?",
+        "answer": "Replyma offers flexible pricing plans to fit your business needs. Please visit our pricing page for more information."
+      }
+    ],
+    "cta_text": "Start Your Free Trial Today"
+  }
+}

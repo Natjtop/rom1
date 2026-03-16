@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "content_type": "niche-landing",
+    "niche_slug": "braces-support",
+    "generated_at": "2026-03-11T15:05:52.675Z"
+  },
+  "seo": {
+    "title": "Braces & Support Customer Support: Replyma vs. Gorgias",
+    "description": "Struggling with fit questions and returns for your braces and support products? See how Replyma AI automates support for orthopedic e-commerce.",
+    "keywords": [
+      "braces customer support",
+      "orthopedic help",
+      "support ecommerce",
+      "braces support"
+    ]
+  },
+  "content": {
+    "hero_headline": "Stop Wrestling with Braces & Support Customer Support",
+    "hero_subheadline": "Replyma AI understands the nuances of orthopedic product support, from sizing to post-surgery care, automating responses and reducing return rates.",
+    "problem_section": {
+      "heading": "The Unique Support Challenges of Braces & Support E-commerce",
+      "pain_points": [
+        {
+          "title": "Sizing Confusion",
+          "description": "Customers frequently struggle to determine the correct size for braces and supports, leading to incorrect orders and returns.",
+          "impact": "Increased return rates, higher shipping costs, and frustrated customers."
+        },
+        {
+          "title": "Fit and Medical-Adjacent Questions",
+          "description": "Many customers have specific questions about how a brace should fit, its suitability for their condition, or post-operative use, requiring knowledgeable support.",
+          "impact": "High agent workload, potential for inaccurate advice, and legal liability if medical advice is misconstrued."
+        },
+        {
+          "title": "Return Policy Ambiguity",
+          "description": "Return policies for medical-adjacent products can be complex due to hygiene concerns and regulations, causing customer confusion.",
+          "impact": "Increased support tickets, customer dissatisfaction, and potential disputes."
+        },
+        {
+          "title": "Usage Instructions",
+          "description": "Proper usage of braces and supports is crucial for effectiveness and safety, but instructions can be unclear or overlooked.",
+          "impact": "Customer misuse, product damage, and potential health risks."
+        },
+        {
+          "title": "Warranty Concerns",
+          "description": "Braces and supports are often subject to wear and tear, leading to warranty claims and questions about coverage.",
+          "impact": "Increased support tickets, potential for fraud, and negative reviews if warranty processes are unclear."
+        }
+      ]
+    },
+    "solution_section": {
+      "heading": "Replyma: AI-Powered Support That Understands Braces & Support",
+      "features": [
+        {
+          "title": "AI-Powered Size Recommendations",
+          "description": "Replyma analyzes customer queries about sizing, referencing your product data and size charts to provide accurate recommendations.",
+          "niche_example": "A customer asks, \"I'm 5'10\" and weigh 180 lbs, what size knee brace should I get?\" Replyma instantly provides the correct size based on your size chart."
+        },
+        {
+          "title": "Automated Fit Guidance",
+          "description": "Replyma answers common questions about brace fit, ensuring customers wear them correctly for optimal support and comfort.",
+          "niche_example": "Replyma provides instructions on how snugly a wrist brace should fit to provide adequate support without restricting circulation."
+        },
+        {
+          "title": "Intelligent Return Policy Explanations",
+          "description": "Replyma clarifies your return policy for braces and supports, addressing hygiene concerns and specific product restrictions.",
+          "niche_example": "Replyma explains that due to hygiene reasons, opened lumbar supports are only eligible for return if defective, referencing the relevant section of your policy."
+        },
+        {
+          "title": "Proactive Usage Tips",
+          "description": "Replyma provides customers with helpful tips and instructions on how to properly use and care for their braces and supports.",
+          "niche_example": "Replyma automatically sends a follow-up message after purchase with a link to a video demonstrating how to correctly apply a back brace."
+        },
+        {
+          "title": "Warranty Claim Assistance",
+          "description": "Replyma guides customers through the warranty claim process, collecting necessary information and streamlining the submission.",
+          "niche_example": "Replyma asks for photos of the damaged area on an elbow brace and the purchase date to initiate a warranty claim."
+        },
+        {
+          "title": "Integration with Shopify & WooCommerce",
+          "description": "Seamlessly integrates with your existing e-commerce platform to access order information and customer data for personalized support.",
+          "niche_example": "Replyma automatically pulls the customer's order history to confirm the purchase date when they inquire about a warranty for a knee brace purchased last year."
+        }
+      ]
+    },
+    "automation_examples": [
+      {
+        "ticket_type": "Size and Fit Question",
+        "frequency": "very common",
+        "replyma_response": "\"Based on your height and weight, a size Medium should be the best fit for the back brace. Please refer to our size chart for more detailed measurements.\""
+      },
+      {
+        "ticket_type": "Order Tracking",
+        "frequency": "very common",
+        "replyma_response": "\"Your order is currently in transit and is expected to arrive on March 15th. Here's the tracking link: [tracking link]\""
+      },
+      {
+        "ticket_type": "Return Policy Inquiry",
+        "frequency": "common",
+        "replyma_response": "\"Due to hygiene reasons, we can only accept returns for unworn and unopened braces. Please see our full policy here: [link to policy]\""
+      },
+      {
+        "ticket_type": "Usage Instructions",
+        "frequency": "common",
+        "replyma_response": "\"To properly wear your wrist brace, ensure it's snug but not too tight, allowing for full circulation. Here's a video demonstration: [video link]\""
+      },
+      {
+        "ticket_type": "Warranty Claim",
+        "frequency": "occasional",
+        "replyma_response": "\"To start a warranty claim, please send us photos of the damaged brace and your order number. We'll review your claim within 2 business days.\""
+      },
+      {
+        "ticket_type": "Compatibility with Activity",
+        "frequency": "occasional",
+        "replyma_response": "\"This knee brace is designed for light to moderate activity. For high-impact sports, we recommend our Pro Series braces. See them here: [link to product page]\""
+      },
+      {
+        "ticket_type": "Post-Surgery Care",
+        "frequency": "occasional",
+        "replyma_response": "\"Please consult your doctor for specific advice, but generally, this brace can be worn as directed by your physician. Ensure proper hygiene and monitor for skin irritation.\""
+      },
+      {
+        "ticket_type": "Comparison to Other Brands (e.g., 'Is this better than a DonJoy brace?')",
+        "frequency": "occasional",
+        "replyma_response": "\"Our braces offer similar support and features to DonJoy, but at a more competitive price. We focus on comfort and ease of use. Here's a comparison chart: [link to chart]\""
+      }
+    ],
+    "stats": [
+      {
+        "value": "30",
+        "label": "%",
+        "source": "Replyma Data"
+      },
+      {
+        "value": "40",
+        "label": "%",
+        "source": "Replyma Data"
+      },
+      {
+        "value": "24/7",
+        "label": "Availability",
+        "source": "Replyma"
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does Replyma handle complex sizing questions?",
+        "answer": "Replyma uses AI to analyze customer inquiries and cross-reference them with your product data and size charts to provide accurate size recommendations."
+      },
+      {
+        "question": "Can Replyma provide medical advice regarding brace usage?",
+        "answer": "No, Replyma is not a substitute for medical advice. It can provide general usage instructions but always advises customers to consult with their healthcare provider for specific medical concerns."
+      },
+      {
+        "question": "How does Replyma integrate with my existing e-commerce platform?",
+        "answer": "Replyma offers seamless integrations with Shopify and WooCommerce, allowing it to access order information, customer data, and product details."
+      },
+      {
+        "question": "Is Replyma cheaper than Gorgias or Zendesk?",
+        "answer": "Replyma is designed to be more cost-effective than traditional platforms like Gorgias and Zendesk, especially for e-commerce businesses with high support volumes. Our AI automation reduces the need for large support teams."
+      },
+      {
+        "question": "What if Replyma doesn't know the answer to a customer's question?",
+        "answer": "Replyma can be configured to escalate unanswered questions to a human agent, ensuring that all customer inquiries are addressed."
+      },
+      {
+        "question": "Does Replyma support multiple languages?",
+        "answer": "Yes, Replyma supports multiple languages, allowing you to provide support to customers worldwide."
+      }
+    ],
+    "cta_text": "Automate Your Braces & Support Customer Support with Replyma"
+  }
+}

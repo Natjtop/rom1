@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "bigcommerce",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Replyma + BigCommerce: AI-Powered Customer Support for E-commerce",
+    "description": "Supercharge your BigCommerce store's customer support with Replyma's AI-driven automation. Seamless integration, faster resolutions, and happier customers.",
+    "keywords": [
+      "BigCommerce",
+      "Replyma",
+      "customer support",
+      "AI",
+      "automation",
+      "e-commerce",
+      "integration",
+      "Gorgias",
+      "Zendesk",
+      "Tidio"
+    ]
+  },
+  "content": {
+    "intro": "Replyma seamlessly integrates with your BigCommerce store, providing AI-powered customer support automation to handle inquiries, resolve issues, and improve customer satisfaction. Unlike traditional systems like Zendesk, Replyma is built specifically for e-commerce, understanding order details, shipping statuses, and product information natively. This integration allows you to automate responses to common questions, freeing up your team to focus on complex issues and driving sales.",
+    "what_you_can_do": [
+      "Capability 1 for bigcommerce.",
+      "Capability 2 for bigcommerce.",
+      "Capability 3 for bigcommerce.",
+      "Capability 4 for bigcommerce.",
+      "Capability 5 for bigcommerce.",
+      "Capability 6 for bigcommerce.",
+      "Capability 7 for bigcommerce.",
+      "Capability 8 for bigcommerce."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}

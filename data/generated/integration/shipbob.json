@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "content_type": "integration",
+    "platform_slug": "shipbob",
+    "generated_at": "2026-03-11T15:23:56.925Z"
+  },
+  "seo": {
+    "title": "Replyma + ShipBob Integration: Streamline E-commerce Customer Support",
+    "description": "Connect Replyma to ShipBob for real-time order tracking, shipping updates, and proactive customer support. Reduce WISMO inquiries and improve customer s...",
+    "keywords": [
+      "Replyma",
+      "ShipBob",
+      "Integration",
+      "E-commerce",
+      "Customer Support",
+      "Order Tracking",
+      "Shipping Updates",
+      "WISMO",
+      "Gorgias",
+      "Zendesk",
+      "Tidio"
+    ]
+  },
+  "content": {
+    "intro": "Seamlessly integrate Replyma with ShipBob to provide your e-commerce customers with proactive shipping updates and instant answers to order inquiries. Reduce 'Where Is My Order?' (WISMO) tickets and improve customer satisfaction by empowering your support team with real-time shipping data. Unlike Gorgias, Replyma focuses specifically on e-commerce and offers a more streamlined integration experience.",
+    "what_you_can_do": [
+      "Capability 1 for shipbob.",
+      "Capability 2 for shipbob.",
+      "Capability 3 for shipbob.",
+      "Capability 4 for shipbob.",
+      "Capability 5 for shipbob.",
+      "Capability 6 for shipbob.",
+      "Capability 7 for shipbob.",
+      "Capability 8 for shipbob."
+    ],
+    "setup_steps": [
+      {
+        "step_number": 1,
+        "title": "Step 1",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 2,
+        "title": "Step 2",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 3,
+        "title": "Step 3",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 4,
+        "title": "Step 4",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      },
+      {
+        "step_number": 5,
+        "title": "Step 5",
+        "description": "Configure integration.",
+        "time_estimate": "2–5 min"
+      }
+    ],
+    "automations": [
+      {
+        "trigger": "Event 1",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 2",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 3",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 4",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 5",
+        "action": "Replyma action",
+        "example": "Example flow."
+      },
+      {
+        "trigger": "Event 6",
+        "action": "Replyma action",
+        "example": "Example flow."
+      }
+    ],
+    "faq": [
+      {
+        "question": "FAQ 1?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 2?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 3?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 4?",
+        "answer": "See documentation."
+      },
+      {
+        "question": "FAQ 5?",
+        "answer": "See documentation."
+      }
+    ],
+    "cta_text": "Try Replyma free"
+  }
+}
